@@ -9,3 +9,7 @@
  - Github overview
  - Markdown language for README files
  - JavaScript ES6+ features
+
+![Octocat (ObiWan)](images/octocat.jpg)
+
+[Uoregon Server](https://pages.uoregon.edu/lstout7/281/)

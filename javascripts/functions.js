@@ -21,13 +21,13 @@ arr.forEach(function(elem){
 console.log(largest);
 };
 
-//req. 3.d INCOMPLETE
-let sumEvents = (arr) => {
+//req. 3.d
+let sumEvens = (arr) => {
   let sum = 0;
-  for(let i in arr){
-    if (i % 2 == 0){
-    sum += i;
-   }
+  for (let length of arr){
+    if(length % 2 == 0){
+      sum = sum + length;
+    }
   }
-  return sum;
+  console.log(sum);
 };
